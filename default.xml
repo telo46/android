@@ -20,7 +20,7 @@
            sync-c="true"
            sync-j="4" />
 
-  <project path="build" name="CyanogenMod/android_build" groups="pdk" >
+  <project path="build" name="telo/android_build" revision="cm-11.0" groups="pdk" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
 
